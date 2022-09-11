@@ -1,0 +1,29 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "Mathematic mini-games",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unInsomnia/backend-project-lvl1.git"
+  },
+  "keywords": [
+    "brain-games"
+  ],
+  "author": "Koder Odilov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unInsomnia/backend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/unInsomnia/backend-project-lvl1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
