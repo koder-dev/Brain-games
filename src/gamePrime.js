@@ -1,16 +1,5 @@
 import randomNumber from "./math.js";
-
-const isPrime = (num) => {
-    if (num === 2 || num === 1) {
-        return true;
-    }
-    for (let x = 2; x < num; x += 1) {
-        if (num % x === 0) {
-            return false;
-        }
-    }
-    return true;
-};
+import {isPrime} from "./math.js";
 
 const gamePrime = () => {
     const thisNumber = randomNumber(1, 201);

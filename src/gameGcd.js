@@ -1,11 +1,5 @@
 import randomNumber from "./math.js";
-
-const getGreatestDivisor = (firstNum, secondNum) => {
-    if (secondNum === 0) {
-        return firstNum;
-    }
-    return getGreatestDivisor(secondNum, firstNum % secondNum);
-};
+import {getGreatestDivisor} from "./math.js";
 
 const gameGcd = () => {
     const firstNumber = randomNumber(1, 100);

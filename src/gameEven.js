@@ -1,6 +1,5 @@
 import randomNumber from "./math.js";
-
-const isEven = (num) => num % 2 === 0;
+import {isEven} from "./math.js";
 
 const gameEven = () => {
     const thisNumber = randomNumber(1, 100);
