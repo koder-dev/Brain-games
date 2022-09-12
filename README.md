@@ -2,8 +2,7 @@
 To install all dependencies please write 'make install' without quotes.
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/unInsomnia/backend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/unInsomnia/backend-project-lvl1/actions)
-<a href="https://codeclimate.com/github/unInsomnia/backend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/191820a66afdd965436a/maintainability" /></a>
-[![make lint](https://github.com/unInsomnia/backend-project-lvl1/actions/workflows/makelint.yml/badge.svg)](https://github.com/unInsomnia/backend-project-lvl1/actions/workflows/makelint.yml)
+<a href="https://codeclimate.com/github/unInsomnia/frontend-project-lvl-1/maintainability"><img src="https://api.codeclimate.com/v1/badges/a290021d3f41ec17a2a3/maintainability" /></a>
 
 # Asciinemas
 ### Brain-even game
